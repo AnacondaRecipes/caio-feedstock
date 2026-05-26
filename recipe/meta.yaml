@@ -41,7 +41,7 @@ about:
   description: Python bindings for Linux AIO API and simple asyncio wrapper.
   license: Apache-2.0
   license_family: Apache
-  license_file: LICENSE
+  license_file: COPYING
   dev_url: https://github.com/mosquito/caio
   doc_url: https://github.com/mosquito/caio
 
