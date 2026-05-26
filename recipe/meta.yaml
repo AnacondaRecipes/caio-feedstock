@@ -27,6 +27,7 @@ requirements:
   run:
     - python
 
+# missing 'aiomisc' required for project tests
 test:
   imports:
     - caio
